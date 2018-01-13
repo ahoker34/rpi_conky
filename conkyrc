@@ -29,7 +29,7 @@ override_utf8_locale no
 use_spacer right
 
 TEXT
-${font Arial:size=15}${color Red}ASUS${color Ivory}Tinker Board
+${font Arial:size=20}${color Red}ASUS${color Ivory}Tinker Board
 
 ${voffset -90}
 ${color DimGray}
